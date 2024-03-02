@@ -14,7 +14,6 @@ from django.contrib.auth.tokens import default_token_generator
 from django.core.mail import EmailMessage
 
 # verificacion Whatsapp y SMS
-from notifications.views import ws_test, sms_test
 import re
 
 # Create your views here.
